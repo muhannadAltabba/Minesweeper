@@ -1,0 +1,12 @@
+#newGameId, #exitId, #loadGameId, #loadReplayId, #scoreBoardId, #optionsId {
+    -fx-background-radius: 20px;
+    -fx-color: rgb(207,212,218);
+    -fx-text-fill: rgb(61,69,72);
+}
+
+#newGameId:hover, #exitId:hover, #loadGameId:hover, #loadReplayId:hover, #scoreBoardId:hover, #optionsId:hover {
+    -fx-background-color: #226699;
+    -fx-text-fill: white;
+}
+
+.button {-fx-cursor: hand;}

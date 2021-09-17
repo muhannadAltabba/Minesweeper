@@ -1,0 +1,18 @@
+#nextId {
+    -fx-background-color: #dc3545;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+    -fx-cursor: hand;
+}
+
+#backId {
+    -fx-cursor: hand;
+}
+
+#backId:hover {
+    -fx-opacity: 0.85;
+}
+
+#nextId:hover {
+    -fx-opacity: 0.93;
+}

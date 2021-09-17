@@ -1,0 +1,11 @@
+#backId .button {
+    -fx-background-radius: 35px;
+    -fx-background-color: #bb2233;
+    -fx-text-fill: white;
+}
+
+#backId .button:hover {
+    -fx-opacity: 0.85;
+}
+
+.button {-fx-cursor: hand;}
